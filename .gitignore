@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.swp
+
+# Logs and cache
+*.log
+*.db
+.cache/
+*.sqlite3
+
+# Audio and temp files
+*.wav
+*.mp3
+*.ogg
+*.flac
+
+# Virtual environments
+env/
+venv/
+.venv/
+ENV/
+
+# Editor/IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets/config
+.env
+secrets.json
